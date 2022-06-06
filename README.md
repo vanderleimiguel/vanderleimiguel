@@ -3,7 +3,6 @@
 - Estudando: JavaScript, NodeJS...;
 - Cursando Desenvolvedor Full Stack pela Blue EdTech;
 - Formado em Tecnologia em Mecatronica;
-- Linkedin: https://www.linkedin.com/in/vanderleimiguel;
 
 <div align="center">
   <a href="https://github.com/vanderleimiguel">
