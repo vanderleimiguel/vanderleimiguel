@@ -1,4 +1,4 @@
-### Olá! Eu sou Vanderlei Miguel, Estudante desenvolvedor full stack;
+### Olá! Eu sou Vanderlei Miguel, Desenvolvedor full stack;
 - Atualmente programador de CLP e robotica industrial, migrando de carreira;
 - Linguagens: JavaScript, NodeJS, Html, CSS, ...;
 - Cursando Desenvolvedor Full Stack pela Blue EdTech;
