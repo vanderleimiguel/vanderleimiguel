@@ -1,5 +1,4 @@
 ### Olá! Eu sou Vanderlei Miguel, Desenvolvedor full stack;
-- Atualmente programador de CLP e robotica industrial, migrando de carreira;
 - Cursando Desenvolvedor Full Stack pela Blue EdTech;
 - Formado em Tecnologia em Mecatronica;
 
