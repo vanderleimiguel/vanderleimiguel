@@ -1,6 +1,7 @@
 ### Olá! Eu sou Vanderlei Miguel, Desenvolvedor full stack;
 - Cursando Desenvolvedor Full Stack pela Blue EdTech;
 - Formado em Tecnologia em Mecatronica;
+- MBA em Gestão de Projetos
 
 <div align="center">
   <a href="https://github.com/vanderleimiguel">
