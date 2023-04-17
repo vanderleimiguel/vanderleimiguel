@@ -1,5 +1,6 @@
 ### Olá! Eu sou Vanderlei Miguel, Desenvolvedor;
 - Atualmente trabalho como desenvolvedor ADVPL - Protheus
+- Cursando Análise e Desenvolvimento de Sistemas
 - Cursando Desenvolvedor Full Stack pela Blue EdTech;
 - Formado em Tecnologia em Mecatronica;
 - MBA em Gestão de Projetos
